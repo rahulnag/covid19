@@ -65,7 +65,7 @@ class App extends React.Component {
     return(
       <div className={useStyles.root} style={MainBackground}>
         <div>
-          <h1>India Covid19 Live Data.....</h1>
+          <h1>India Covid19 Live Data by Rahul Nag</h1>
         </div>
         <Grid
                 container
